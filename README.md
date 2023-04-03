@@ -17,5 +17,4 @@
 
 따라서 loss 7%, accuracy 97% 정도의 높은 결과가 나옴.
 
-
 accuracy를 높이기 위해서는 train_set의 sample data 양을 더 많이 늘려야 함.
